@@ -1,0 +1,16 @@
+.backgroundImg {
+  width: 100vw;                     
+  height: 100vh;                    
+  margin-left: calc(-50vw + 50%);  
+  margin-top: calc(-50vw + 50%);
+  margin-bottom: calc(-50vw + 50%);;
+  
+  background-image: url(../../img/background-landingPage.JPG);
+  background-size: cover;          
+  background-position: center;    
+  background-repeat: no-repeat;
+
+  padding: 80px 20px;              
+  box-sizing: border-box;         
+}
+
